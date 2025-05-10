@@ -52,7 +52,8 @@ To build YCSB-C, please follow the README document inside the `ycsbc` folder
   `ycsbc/workload/<workload_name>.spec`
 - The location of generated workload:
   `ycsbc/export/<workload_name>.data`
-- If the `export` folder does not exist, please create it at first.- For the fomat of workload files, please refer to [YCSB-C](https://github.com/brianfrankcooper/YCSB/wiki).
+- If the `export` folder does not exist, please create it at first.
+- For the fomat of workload files, please refer to [YCSB-C](https://github.com/brianfrankcooper/YCSB/wiki).
 
 ## Usage
 
